@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="icons.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.829812"
+     inkscape:cx="303.30985"
+     inkscape:cy="250.29894"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1164" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffff00;stroke-width:0.264583"
+       d="M 77.792598,22.846153 49.905261,45.774881 H 75.278833 L 52.74136,69.080695 86.323757,42.077409 h -25.82703 z"
+       id="path790"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="..\bolt.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:0.203313"
+       id="rect997"
+       width="47.77792"
+       height="47.77792"
+       x="44.215714"
+       y="22.237133" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:0.203313"
+       id="rect1158"
+       width="47.77792"
+       height="47.77792"
+       x="125.76781"
+       y="22.237133"
+       inkscape:export-filename="..\fireball.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:0.203313"
+       id="rect1162"
+       width="47.77792"
+       height="47.77792"
+       x="125.76781"
+       y="80.943069"
+       inkscape:export-filename="..\heal.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#00ff00;stroke:none;stroke-width:0.264583"
+       d="m 146.84374,83.34375 h 6.61459 v 9.260417 h 7.9375 v 5.291666 h -7.9375 v 27.781247 h -6.61459 V 97.895833 h -7.93749 v -5.291666 h 7.93749 z"
+       id="path1220"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <circle
+       style="fill:#ff0000;stroke:none;stroke-width:0.361309"
+       id="path2010"
+       cx="162.31654"
+       cy="44.231129"
+       r="10.262311" />
+    <path
+       style="fill:#ff0000;stroke:none;stroke-width:0.264583"
+       d="m 155.29601,36.582765 c 0,0 -3.39087,3.583508 -5.63924,4.337877 -2.76466,0.927592 -5.89371,0.524698 -8.74806,-0.0723 -3.8996,-0.815612 -10.98929,-4.699365 -10.98929,-4.699365 0,0 0.90331,4.481635 2.38584,6.073026 1.98386,2.129533 7.88047,3.759496 7.88047,3.759496 0,0 -4.91239,2.690012 -6.79601,4.699365 -1.63378,1.742836 -3.68719,6.145327 -3.68719,6.145327 0,0 6.94321,-3.230177 10.6278,-4.19328 3.10619,-0.811919 6.33602,-1.44568 9.54333,-1.301365 2.69231,0.121142 7.88047,1.807449 7.88047,1.807449 z"
+       id="path2066"
+       sodipodi:nodetypes="caacacacaacc" />
+  </g>
+</svg>

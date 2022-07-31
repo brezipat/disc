@@ -1,0 +1,17 @@
+{
+	"fireball": {
+		"health_modifier": -20,
+        "max_targets": 1,
+		"target_group": "enemy"
+	},
+	"bolt": {
+		"health_modifier": -12,
+        "max_targets": 2,
+		"target_group": "enemy"
+	},
+	"heal": {
+		"health_modifier": 20,
+        "max_targets": 2,
+		"target_group": "ally"
+	}
+}
